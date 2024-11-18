@@ -1,0 +1,19 @@
+# Logs - Nope, don’t wanna see your errors
+*.log
+
+# Node modules - Because we all love re-downloading them
+node_modules/
+
+# Build - You built it? Good for you, keep it.
+dist/
+
+# Secrets - Shhh... it’s between you and your machine
+*.env
+
+# IDE junk - Your tools, your problem
+.vscode/
+.idea/
+.DS_Store
+
+# OS weirdness - Why are you like this?
+Thumbs.db
